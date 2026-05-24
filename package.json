@@ -8,7 +8,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "lumiverse-spindle-types": "file:../../node_modules/lumiverse-spindle-types",
+    "lumiverse-spindle-types": "file:../../../node_modules/lumiverse-spindle-types",
     "typescript": "^5.0.0"
   }
 }
